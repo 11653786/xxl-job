@@ -1,8 +1,0 @@
-2018-07-24 15:31:37 [com.xxl.job.core.thread.JobThread#run]-[123]-[Thread-24] <br>----------- xxl-job job execute start -----------<br>----------- Param:
-2018-07-24 15:31:37 [com.xxl.job.executor.service.jobhandler.DemoJobHandler#execute]-[29]-[Thread-24] XXL-JOB, Hello World.
-2018-07-24 15:31:37 [com.xxl.job.executor.service.jobhandler.DemoJobHandler#execute]-[32]-[Thread-24] beat at:0
-2018-07-24 15:31:39 [com.xxl.job.executor.service.jobhandler.DemoJobHandler#execute]-[32]-[Thread-24] beat at:1
-2018-07-24 15:31:41 [com.xxl.job.executor.service.jobhandler.DemoJobHandler#execute]-[32]-[Thread-24] beat at:2
-2018-07-24 15:31:43 [com.xxl.job.executor.service.jobhandler.DemoJobHandler#execute]-[32]-[Thread-24] beat at:3
-2018-07-24 15:31:45 [com.xxl.job.executor.service.jobhandler.DemoJobHandler#execute]-[32]-[Thread-24] beat at:4
-2018-07-24 15:31:47 [com.xxl.job.core.thread.JobThread#run]-[128]-[Thread-24] <br>----------- xxl-job job execute end(finish) -----------<br>----------- ReturnT:ReturnT [code=200, msg=null, content=null]
